@@ -1,0 +1,11 @@
+#body1{
+    background-image: url("downloadbackground.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    background-color: darkseagreen;
+    border: darkslategrey;
+    box-shadow: gray;
+}
